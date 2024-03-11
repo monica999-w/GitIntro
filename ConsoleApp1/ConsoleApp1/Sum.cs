@@ -8,5 +8,7 @@ namespace ConsoleApp1
 {
     internal class Sum
     {
+        public int number1;
+        public int number2;
     }
 }
